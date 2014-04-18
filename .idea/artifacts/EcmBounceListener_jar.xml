@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EcmBounceListener:jar">
+    <output-path>C:/ManagementGateway/5.6.0/root/applications/EcmResponcehandling/data/java</output-path>
+    <root id="archive" name="EcmBounceListener.jar">
+      <element id="module-output" name="EcmBounceListener" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../eCm out connector sync API2.0/lib/jstrs.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/strs/EcmBounceListener.i" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java in connector for Frank/SFTPinConnector/commons-io-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

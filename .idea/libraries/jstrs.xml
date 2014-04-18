@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jstrs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../eCm out connector sync API2.0/lib/jstrs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
